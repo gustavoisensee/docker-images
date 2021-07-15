@@ -4,5 +4,5 @@ Contains customized linux alpine versions.
 
 ## Versions
 
-* alpine-bash-curl-jq
-* alpine-wget
+* [alpine-bash-curl-jq](https://github.com/gustavoisensee/docker-images/blob/main/alpine-bash-curl-jq/Dockerfile)
+* [alpine-wget](https://github.com/gustavoisensee/docker-images/blob/main/alpine-wget/Dockerfile)
